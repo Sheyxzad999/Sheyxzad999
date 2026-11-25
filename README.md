@@ -28,6 +28,7 @@
 
 | Loyiha | Tavsif |
 |---|---|
+| ⚡ [**Tezkor**](https://github.com/Sheyxzad999/tezkor) | Mac va Windows uchun vidjetlar: timecode, rang pipetkasi, tizim monitori, CBU kursi, namoz vaqtlari |
 | 🇺🇿 [**uzkit**](https://github.com/Sheyxzad999/uzkit) | Oʻzbek dasturchilari uchun open-source kutubxona: telefon, lotin ↔ kirill, soʻm, son → soʻz |
 | 💳 [**uz-payments**](https://github.com/Sheyxzad999/uz-payments) | Payme va Click toʻlovlarini Node.js loyihaga tez ulash (open-source) |
 | [crmStudy](https://sheyxzad.uz/ishlar/crmstudy/) | O'quv markazlar uchun CRM |
