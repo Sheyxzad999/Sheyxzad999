@@ -28,6 +28,7 @@
 
 | Loyiha | Tavsif |
 |---|---|
+| 🇺🇿 [**uzkit**](https://github.com/Sheyxzad999/uzkit) | Oʻzbek dasturchilari uchun open-source kutubxona: telefon, lotin ↔ kirill, soʻm, son → soʻz |
 | [crmStudy](https://sheyxzad.uz/ishlar/crmstudy/) | O'quv markazlar uchun CRM |
 | [Kimbirinchi](https://sheyxzad.uz/ishlar/kimbirinchi/) | Real-time loyiha |
 | [GlycoNest](https://sheyxzad.uz/ishlar/glyconest/) | Veb-ilova |
